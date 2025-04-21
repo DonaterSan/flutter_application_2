@@ -64,7 +64,7 @@ class _MyHomePageState extends State<MyHomePage> {
               style: Theme.of(context).textTheme.headlineLarge,
             ),
             Text(
-              'Сходите лесом миссье',
+              'Сходите лесом миссье или сраху в лесоповал  ',
               style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
             ),
           ],
