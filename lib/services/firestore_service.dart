@@ -1,4 +1,5 @@
 import 'package:flutter_application_2/models/user_profile.dart';
+import 'package:cloud_firestore/cloud_firestore.dart';
 
 class FirestoreService {
   final FirebaseFirestore _firestore = FirebaseFirestore.instance;
